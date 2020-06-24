@@ -1,0 +1,114 @@
+Plan for kunskapskontroll3
+
+We should have same layout using bootstrap based on Eyahya's productlist.php.
+CSS: little details like font, padding, margin, button etc...
+Product: 3 mobile products(Samsung, Apple, Huaweii) by Kim. All product info should be similar structure. 
+Varukorg: Daniel, kassa: Eyahya, order placering: Kim 
+If any other member wants to upload another product, you can do that.
+Work on bugs
+
+
+
+
+Company name: Mobile Alltech(Reason for this is to show every Mobile type and brands)
+
+Company slogan: Mobile for all(Reason for this is to for every different type of customers)
+
+Company site font: Anton(Title font)   Roboto(base font)   Dancing script(special font)
+
+Company site color: White(background) Yellow(header, footer), green or blue(menu), light gray(top header)
+Yellows are good for grabbing the attention of potential shoppers.
+People associate the color yellow with optimism and youthfulness.
+
+Company site top header: register, login, mypage
+
+Company site menu: Home   Mobile(Samsung, Apple, Huaweii)  Contact   About us
+
+
+
+
+
+
+
+
+
+
+
+
+
+bug/error/etc neeeds to be fixed:
+
+Login goes to a page where you can choose either user admin or product admin (Daniel can do this). Kim can perhaps fix a link 
+that lands on this page from login.php? Useradmin and product admin have links or a way to switch between the to pages  and a 
+functioning logout (Eyahya and Daniel)
+
+Varukorg kassa orderhantering (get it to work). Button does not lead to kassa Daniel fix. We need perhaps some sort of 
+receipt? Can not see it now.
+
+Work on responsiveness on each page (everyone on their own page)
+
+Perhaps style the buttons? (no decision)
+
+Daniel is still not able to login in through Kims login file but it works for Eyahya. 
+
+Images don´t show. Perhaps Daniel fix images in cart1, kim in product and product list, Eyahya in kassa.
+
+
+ 
+
+Header on all 
+pages (each one add headerdaniel to their page)
+
+
+ 
+
+Navbar perhaps a login for admin? (Not resolved)
+
+
+ 
+
+Make product admin and 
+users admin more stylistically similar (how not resolved)
+
+
+ 
+
+Perhaps also add image possible in product admin (if you know how 
+to do Eyahya? I don´t). Eyahya if possible to do
+
+
+ 
+
+Color for buttons? I think the grey ones on kim’s page are nice, and have red 
+for delete (not resolved)
+
+
+ 
+
+Fonts same on all pages (sized etc not resolved)
+
+Top header needs to be fixed for appropriate pages: Like showing username showing logout, mypage links
+
+include Img in admin/productpage
+
+Img not showing problem in public/productlist.php
+
+adminname not shown in landing.php and users.php
+
+fix file path for product delete button in checkout.php
+
+Make email:admin@kontroll3.com  password: 123123123 for your sql. I will fix the login so this id go to admin folder
+
+Unite all css files to one single css: style.css
+
+header.php and headerdaniel.php have different content kind. This needs to be united as one
+
+
+
+
+
+bug/error/etc neeeds that are fixed:
+
+logo: made by Daniel
+
+userFunctions link in users.php fixed
